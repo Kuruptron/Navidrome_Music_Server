@@ -3,6 +3,7 @@
 Ditch the expensive streaming subscriptions! This project transforms a powerful **Raspberry Pi 4B (8GB RAM)** and the brilliant **Navidrome** music server into your personal, **completely free** Spotify alternative. Enjoy full ownership of your music and stream it effortlessly and securely across all your devices using **Tailscale** and a **Subsonic**-compatible client like **Symfonium**.
 
 
+![Music GIF](images/Simpsons.gif)
 ---
 
 ## About The Project
@@ -203,14 +204,10 @@ Distributed under the MIT License. See the `LICENSE` file for complete terms and
 
 Here are some screenshots of the client application and the physical server setup.
 
-### Application Screenshots
-*(Tip: Add screenshots of your custom client or Symfonium in action)*
-
 ![App Screenshot 1](images/img1.jpg)
 ![App Screenshot 2](images/img2.jpg)
 ![App Screenshot 3](images/img3.jpg)
 
 ### The Server
-*(Tip: Add a photo of your Raspberry Pi setup!)*
 
-![My Raspberry Pi Server](images/IMG_0078.HEIC)
+![My Raspberry Pi Server](images/pi_img.jpg)
